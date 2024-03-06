@@ -1,0 +1,24 @@
+.body{
+    background:linear-gradient(black,rgb(1, 1, 34),black);
+  
+}
+.bordure{
+    border: solid 1px rgb(227, 0, 76);
+    box-shadow: 0px 0px 10px 3px rgb(238, 58, 88);
+}
+img#logoP {
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+.cadre{
+    padding-bottom: 80px;
+}
+section.logo {
+    margin-bottom: -195px;
+    margin-top: -128px;
+}
+.btn:hover{
+    border: solid 1px rgb(64, 203, 228);
+    box-shadow: 0px 0px 10px 3px rgb(64, 203, 228);
+}
